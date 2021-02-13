@@ -1,0 +1,196 @@
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\obj\Debug\netcoreapp3.1\NetCoreAPI.csprojAssemblyReference.cache
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\obj\Debug\netcoreapp3.1\NetCoreAPI.AssemblyInfoInputs.cache
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\obj\Debug\netcoreapp3.1\NetCoreAPI.AssemblyInfo.cs
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\obj\Debug\netcoreapp3.1\NetCoreAPI.csproj.CoreCompileInputs.cache
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\obj\Debug\netcoreapp3.1\NetCoreAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\obj\Debug\netcoreapp3.1\NetCoreAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\NetCoreAPI.exe
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\NetCoreAPI.deps.json
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\NetCoreAPI.runtimeconfig.json
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\NetCoreAPI.runtimeconfig.dev.json
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\NetCoreAPI.dll
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\NetCoreAPI.pdb
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.OData.dll
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore.dll
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.OData.Core.dll
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.OData.Edm.dll
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Spatial.dll
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Serilog.dll
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Serilog.AspNetCore.dll
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Serilog.Settings.Configuration.dll
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Serilog.Sinks.Async.dll
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\System.Linq.Dynamic.Core.dll
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\obj\Debug\netcoreapp3.1\NetCoreAPI.RazorTargetAssemblyInfo.cache
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\obj\Debug\netcoreapp3.1\NetCoreAPI.csproj.CopyComplete
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\obj\Debug\netcoreapp3.1\staticwebassets\NetCoreAPI.StaticWebAssets.Manifest.cache
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\obj\Debug\netcoreapp3.1\staticwebassets\NetCoreAPI.StaticWebAssets.xml
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\obj\Debug\netcoreapp3.1\NetCoreAPI.dll
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\obj\Debug\netcoreapp3.1\NetCoreAPI.pdb
+D:\New folder (3)\NetCoreAPI\NetCoreAPI\obj\Debug\netcoreapp3.1\NetCoreAPI.genruntimeconfig.cache
+D:\template\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\template\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\template\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\NetCoreAPI.exe
+D:\template\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\NetCoreAPI.deps.json
+D:\template\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\NetCoreAPI.runtimeconfig.json
+D:\template\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\NetCoreAPI.runtimeconfig.dev.json
+D:\template\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\NetCoreAPI.dll
+D:\template\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\NetCoreAPI.pdb
+D:\template\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\template\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\template\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\template\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\template\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\template\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\template\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\template\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\template\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.OData.dll
+D:\template\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\template\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\template\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\template\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\template\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\template\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\template\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\template\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\template\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\template\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\template\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\template\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\template\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\template\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\template\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\template\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\template\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\template\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\template\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\template\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore.dll
+D:\template\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\template\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\template\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\template\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\template\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\template\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\template\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\template\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\template\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\template\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\template\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\template\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\template\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\template\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\template\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.OData.Core.dll
+D:\template\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.OData.Edm.dll
+D:\template\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\template\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Microsoft.Spatial.dll
+D:\template\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\template\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\template\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Serilog.dll
+D:\template\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Serilog.AspNetCore.dll
+D:\template\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+D:\template\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+D:\template\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+D:\template\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Serilog.Settings.Configuration.dll
+D:\template\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Serilog.Sinks.Async.dll
+D:\template\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+D:\template\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
+D:\template\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+D:\template\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\template\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\template\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\template\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\template\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\template\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\template\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\template\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\System.Linq.Dynamic.Core.dll
+D:\template\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\template\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\template\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\template\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\template\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\template\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\template\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\template\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\template\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\template\NetCoreAPI\NetCoreAPI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\template\NetCoreAPI\NetCoreAPI\obj\Debug\netcoreapp3.1\NetCoreAPI.csprojAssemblyReference.cache
+D:\template\NetCoreAPI\NetCoreAPI\obj\Debug\netcoreapp3.1\NetCoreAPI.AssemblyInfoInputs.cache
+D:\template\NetCoreAPI\NetCoreAPI\obj\Debug\netcoreapp3.1\NetCoreAPI.AssemblyInfo.cs
+D:\template\NetCoreAPI\NetCoreAPI\obj\Debug\netcoreapp3.1\NetCoreAPI.csproj.CoreCompileInputs.cache
+D:\template\NetCoreAPI\NetCoreAPI\obj\Debug\netcoreapp3.1\NetCoreAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\template\NetCoreAPI\NetCoreAPI\obj\Debug\netcoreapp3.1\NetCoreAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\template\NetCoreAPI\NetCoreAPI\obj\Debug\netcoreapp3.1\NetCoreAPI.RazorTargetAssemblyInfo.cache
+D:\template\NetCoreAPI\NetCoreAPI\obj\Debug\netcoreapp3.1\NetCoreAPI.csproj.CopyComplete
+D:\template\NetCoreAPI\NetCoreAPI\obj\Debug\netcoreapp3.1\staticwebassets\NetCoreAPI.StaticWebAssets.Manifest.cache
+D:\template\NetCoreAPI\NetCoreAPI\obj\Debug\netcoreapp3.1\staticwebassets\NetCoreAPI.StaticWebAssets.xml
+D:\template\NetCoreAPI\NetCoreAPI\obj\Debug\netcoreapp3.1\NetCoreAPI.dll
+D:\template\NetCoreAPI\NetCoreAPI\obj\Debug\netcoreapp3.1\NetCoreAPI.pdb
+D:\template\NetCoreAPI\NetCoreAPI\obj\Debug\netcoreapp3.1\NetCoreAPI.genruntimeconfig.cache

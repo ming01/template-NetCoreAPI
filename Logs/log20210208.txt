@@ -1,0 +1,16 @@
+2021-02-08 08:43:12.645 +07:00 [INF] Starting web host
+2021-02-08 08:43:22.248 +07:00 [WRN] No type was specified for the decimal column 'Price' on entity type 'Product'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+2021-02-08 10:16:47.916 +07:00 [INF] Starting web host
+2021-02-08 10:23:38.970 +07:00 [WRN] No type was specified for the decimal column 'Price' on entity type 'Product'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+2021-02-08 11:04:51.025 +07:00 [INF] Starting web host
+2021-02-08 11:05:31.149 +07:00 [INF] Starting web host
+2021-02-08 11:06:48.973 +07:00 [WRN] No type was specified for the decimal column 'Price' on entity type 'Product'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+2021-02-08 11:14:42.568 +07:00 [INF] Starting web host
+2021-02-08 11:24:35.986 +07:00 [INF] Starting web host
+2021-02-08 11:24:50.642 +07:00 [WRN] No type was specified for the decimal column 'Price' on entity type 'Product'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+2021-02-08 15:34:45.541 +07:00 [INF] Starting web host
+2021-02-08 15:36:12.999 +07:00 [WRN] No type was specified for the decimal column 'Price' on entity type 'Product'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+2021-02-08 16:34:26.461 +07:00 [INF] Starting web host
+2021-02-08 16:34:41.181 +07:00 [WRN] No type was specified for the decimal column 'Price' on entity type 'Product'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
+2021-02-08 16:35:29.272 +07:00 [INF] Starting web host
+2021-02-08 16:35:36.386 +07:00 [WRN] No type was specified for the decimal column 'Price' on entity type 'Product'. This will cause values to be silently truncated if they do not fit in the default precision and scale. Explicitly specify the SQL server column type that can accommodate all the values using 'HasColumnType()'.
