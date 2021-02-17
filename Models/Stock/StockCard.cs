@@ -15,6 +15,7 @@ namespace NetCoreAPI.Models
         public int Add { get; set; }
         public int Del { get; set; }
         public int Stock { get; set; }
+        public bool IsActive { get; set; }
         public DateTime CreatedDate { get; set; }
         public Guid UserId { get; set; }
         public User User { get; set; }

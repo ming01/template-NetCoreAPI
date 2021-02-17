@@ -17,11 +17,12 @@ namespace NetCoreAPI.Models
         public int Qty { get; set; }
 
         public bool IsActive { get; set; }
-        public Guid UserId { get; set; }
+
         public DateTime CreatedDate { get; set; }
         [Required]
         public int ProductGroupId { get; set; }
         public ProductGroup ProductGroup { get; set; }
+        public Guid UserId { get; set; }
         public User User { get; set; }
     }
 }

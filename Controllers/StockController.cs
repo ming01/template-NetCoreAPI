@@ -21,6 +21,17 @@ namespace NetCoreAPI.Controllers
         {
             return Ok(await _stockservice.StockCardType());
         }
+        [HttpGet("stockcard/filter")]
+        public async Task<IActionResult> StockCardFilter([FromQuery] StockCardFilterDto filter)
+        {
+            return Ok(await _stockservice.StockCardFilter(filter));
+        }
+        [HttpPost("addstockcard")]
+        public async Task<IActionResult> AddStockCard(AddStockCardDto newStockCard)
+        {
+            return Ok(await _stockservice.AddStockCard(newStockCard));
+        }
+
 
     }
 }

@@ -24,6 +24,7 @@ namespace NetCoreAPI
             CreateMap<ProductGroup, GetProductGroupDto>();
 
             CreateMap<StockCardType, StockCardTypeDto>();
+            CreateMap<StockCard, StockCardDto>();
         }
     }
 }
